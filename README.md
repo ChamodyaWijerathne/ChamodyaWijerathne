@@ -8,8 +8,8 @@
   <a href="https://www.facebook.com/profile.php?id=61556359486792&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=%7Bwhite%7D" alt="Facebook Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ChamodyaWijerathne&style=flat-square&color=blue" alt=""/>
