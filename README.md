@@ -25,10 +25,9 @@
 </div>
 
 ---
-
+<div align=left-align>
 ### :woman_technologist: About Me :
 I am a :mortar_board: university student studying Information Systems at Sabaragamuwa University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
----
 
 - :seedling: New to the web development and looking to build my knowledge in the field.
 - :bulb: Passionate about tech and innovation
@@ -47,5 +46,5 @@ I ain to expand my knowledge in programming and software development. I'm excite
 ## Let's Connect
 - **GitHub:** [ChamodyaWijerathne](https://github.com/chamodyawijerathne)
 - **Email:** [chamodyawijerathne096@gmail.com]
-
+</div>
 
