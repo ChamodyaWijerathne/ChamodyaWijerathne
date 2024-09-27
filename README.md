@@ -18,6 +18,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2Ymw3aGtoMjhndjFjdWdkZXEwOWhiNnNkaHQ3bTlqNGZrdzF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDXSvFHsx0YafLjgOB/giphy.gif" width="600" height="300"/>
+</div>
+
 ## About Me
 A university student studying Information Systems at Sabaragamuwa University. As a newcomer to this exciting field, I'm passionate about web development and eager to build my skill set.
 
