@@ -27,7 +27,11 @@
 ---
 
 ### :woman_technologist: About Me :
-A university student studying Information Systems at Sabaragamuwa University. As a newcomer to this exciting field, I'm passionate about web development and eager to build my skill set.
+I am a :mortar_board: university student studying Information Systems at Sabaragamuwa University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
+
+- :seedling: New to the web development and looking to build my knowledge in the field.
+- :bulb: Passionate about tech and innovation
+- :rocket: Looking for opportunities collaborate and grow.
 
 ## My Journey
 Right now, I'm exploring the fundamentals of:
