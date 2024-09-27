@@ -25,7 +25,8 @@
 </div>
 
 ---
-<div align=left-align>
+<div align="left-align">
+  
 ### :woman_technologist: About Me :
 I am a :mortar_board: university student studying Information Systems at Sabaragamuwa University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
