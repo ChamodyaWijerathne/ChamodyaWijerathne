@@ -57,8 +57,7 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 
 --- 
 
-## Goals
-I ain to expand my knowledge in programming and software development. I'm excited to take on new challenges and colloborate on innovative projects.
+
 
 ## Let's Connect
 - **GitHub:** [ChamodyaWijerathne](https://github.com/chamodyawijerathne)
