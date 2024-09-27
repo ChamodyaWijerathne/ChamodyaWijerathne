@@ -8,8 +8,8 @@
   <a href="https://www.facebook.com/profile.php?id=61556359486792&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=%7Bwhite%7D" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://mail.google.com/mail/u/1/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ChamodyaWijerathne&style=flat-square&color=blue" alt=""/>
@@ -54,7 +54,9 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 ![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
+
+--- 
+
 ## Goals
 I ain to expand my knowledge in programming and software development. I'm excited to take on new challenges and colloborate on innovative projects.
 
