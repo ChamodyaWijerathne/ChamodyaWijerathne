@@ -54,6 +54,7 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 ![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 ## Goals
 I ain to expand my knowledge in programming and software development. I'm excited to take on new challenges and colloborate on innovative projects.
 
