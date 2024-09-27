@@ -50,6 +50,7 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChamodyaWijerathne&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+[![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne)](https://github.com/anuraghazra/github-readme-stats)
 ## Goals
 I ain to expand my knowledge in programming and software development. I'm excited to take on new challenges and colloborate on innovative projects.
 
