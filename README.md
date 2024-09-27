@@ -28,7 +28,7 @@
 <div align="left">
   
 ### :woman_technologist: About Me :
-I am a :mortar_board: university student studying <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> BSc in Hons Information Systems at Sabaragamuwa University  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> from Sri Lanka.
+I am a <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo3N2tsOWxodHJranh1aTlnczhhdmlua3NlMDF0d3M5enRoeDlydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNAKa7nXenniRdDIu6/giphy.gif width="20"/> university student studying <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> BSc in Hons Information Systems at Sabaragamuwa University  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> from Sri Lanka.
 
 - :seedling: New to the web development and looking to build my knowledge in the field.
 - :bulb: Passionate about tech and innovation
