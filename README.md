@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=ChamodyaWijerathne&style=flat-square&color=blue" alt=""/>
   
 <h1>
   Hey There!
@@ -51,6 +52,8 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChamodyaWijerathne&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 ## Goals
 I ain to expand my knowledge in programming and software development. I'm excited to take on new challenges and colloborate on innovative projects.
 
