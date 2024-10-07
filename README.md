@@ -29,7 +29,7 @@
 <div align="left">
   
 ### :woman_technologist: About Me :
-I am a :mortar_board: university student studying <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> BSc in Hons Information Systems at Sabaragamuwa University  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> from Sri Lanka.
+I am a :mortar_board: university student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
 - :seedling: New to the web development and looking to build my knowledge in the field.
 - :bulb: Passionate about tech and innovation
@@ -59,8 +59,5 @@ I am a :mortar_board: university student studying <img src="https://media.giphy.
 
 
 
-## Let's Connect
-- **GitHub:** [ChamodyaWijerathne](https://github.com/chamodyawijerathne)
-- **Email:** [chamodyawijerathne096@gmail.com]
 </div>
 
