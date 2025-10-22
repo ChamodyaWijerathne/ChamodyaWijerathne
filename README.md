@@ -60,7 +60,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 
-
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[Chamodya Wijerathne]" />
 --- 
 
 
