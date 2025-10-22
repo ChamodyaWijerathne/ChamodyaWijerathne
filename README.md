@@ -54,8 +54,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChamodyaWijerathne&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChamodyaWijerathne)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChamodyaWijerathne&theme=dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
 
