@@ -59,6 +59,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 ![Chamodya Wijerathne's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ChamodyaWijerathne)
 
 --- 
 
