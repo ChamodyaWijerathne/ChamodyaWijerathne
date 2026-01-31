@@ -56,8 +56,6 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 
 [![GitHub Streak](https://github-readme-streak-stat-ten.vercel.app?user=ChamodyaWijerathne&theme=rust-ferris-light&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 
 
