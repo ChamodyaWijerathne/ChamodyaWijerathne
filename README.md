@@ -60,6 +60,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChamodyaWijerthne)](https://git.io/streak-stats)
 
 --- 
 ---
