@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          username: ChamodyaWijerathne
+          stats_file: assets/github-stats.svg
+          langs_file: assets/top-langs.svg
+          show_icons: true
+          layout: compact
