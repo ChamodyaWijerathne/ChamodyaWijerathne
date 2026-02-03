@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats and Top Languages
+        uses: mhypsbv5x/github-readme-stats-action@v1.1.0
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          username: ChamodyaWijerathne
+          stats_file: assets/github-stats.svg
+          langs_file: assets/top-langs.svg
+          show_icons: true
+          layout: compact
