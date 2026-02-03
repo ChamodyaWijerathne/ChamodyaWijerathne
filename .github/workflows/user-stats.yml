@@ -2,7 +2,7 @@ name: Generate GitHub Stats Card
 
 on:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
+    - cron: '0 0 * * *' # daily
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
 
       - name: Generate user statistics SVG
         uses: cicirello/user-statistician@v1
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # <-- set as env, not input
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_STATS }}
           image-file: assets/github-stats.svg
