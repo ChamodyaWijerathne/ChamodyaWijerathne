@@ -62,7 +62,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaWijerathne&layout=compact&theme=radical)
+
 
 
 --- 
