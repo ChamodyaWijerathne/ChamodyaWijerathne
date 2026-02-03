@@ -16,6 +16,6 @@ jobs:
       - name: Generate user statistics SVG
         uses: cicirello/user-statistician@v1
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # <-- set as env, not input
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # <-- must be GITHUB_TOKEN
         with:
           image-file: assets/github-stats.svg
