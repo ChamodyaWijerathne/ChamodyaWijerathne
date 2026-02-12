@@ -48,6 +48,7 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
     <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
     
     
   </div>
