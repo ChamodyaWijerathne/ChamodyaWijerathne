@@ -62,10 +62,9 @@ I am a :mortar_board: university student<img src="https://media.giphy.com/media/
 
 [![GitHub Streak](https://github-readme-streak-stat-ten.vercel.app?user=ChamodyaWijerathne&theme=rust-ferris-light&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamodyaWijerathne&show_icons=true&theme=radical)
-
 ![Languages](https://raw.githubusercontent.com/ChamodyaWijerathne/github-stats-transparent/refs/heads/output/generated/languages.svg)
+
+![Overview](https://raw.githubusercontent.com/ChamodyaWijerathne/github-stats-transparent/refs/heads/output/generated/overview.svg)
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ChamodyaWijerathne&combine_all_yearly_contributions=true&limit=5&order_by=contributions) <!-- order_by=stars -->
 
